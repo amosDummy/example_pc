@@ -1,0 +1,9 @@
+[submodule "CPU_Intel_i5"]
+	path = CPU_Intel_i5
+	url = https://github.com/amosDummy/CPU_Intel_i5
+[submodule "GPU_Nvidia_GTX1080"]
+	path = GPU_Nvidia_GTX1080
+	url = https://github.com/amosDummy/GPU_Nvidia_GTX1080
+[submodule "Motherboard_MSI_MEG"]
+	path = Motherboard_MSI_MEG
+	url = https://github.com/amosDummy/Motherboard_MSI_MEG
